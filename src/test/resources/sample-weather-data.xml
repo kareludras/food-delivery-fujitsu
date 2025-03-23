@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<observations timestamp="1742684094">
+    <station>
+        <name>Tallinn-Harku</name>
+        <wmocode>26038</wmocode>
+        <airtemperature>5.0</airtemperature>
+        <windspeed>4.0</windspeed>
+        <phenomenon>Clear</phenomenon>
+    </station>
+    <station>
+        <name>Tartu-Tõravere</name>
+        <wmocode>26242</wmocode>
+        <airtemperature>3.0</airtemperature>
+        <windspeed>3.0</windspeed>
+        <phenomenon>Light snow shower</phenomenon>
+    </station>
+    <station>
+        <name>Pärnu</name>
+        <wmocode>41803</wmocode>
+        <airtemperature>2.0</airtemperature>
+        <windspeed>6.0</windspeed>
+        <phenomenon>Rain</phenomenon>
+    </station>
+    <station>
+        <name>Other Station</name>
+        <wmocode>99999</wmocode>
+        <airtemperature>10.0</airtemperature>
+        <windspeed>2.0</windspeed>
+        <phenomenon>Clear</phenomenon>
+    </station>
+</observations>

@@ -23,7 +23,6 @@ public class WeatherData {
 
     private LocalDateTime timestamp;
 
-    // Constructors
     public WeatherData() {
     }
 
@@ -37,7 +36,6 @@ public class WeatherData {
         this.timestamp = timestamp;
     }
 
-    // Getters and Setters
     public Long getId() {
         return id;
     }
