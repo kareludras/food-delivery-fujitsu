@@ -56,7 +56,7 @@ Rakendus sisaldab järgmisi komponente:
 
 ### Sammud
 1. Klooni projekt
-2. Käivita käsuga `mvn spring-boot:run või jooksutada koodiredaktoris faili DeliveryApplication.java`
+2. Käivita käsuga `mvn spring-boot:run` või jooksutada koodiredaktoris faili DeliveryApplication.java
 3. Rakendus käivitub pordil 8081
 
 ## API
